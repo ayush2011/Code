@@ -3,5 +3,5 @@
 
 Given a string sentence containing only lowercase English letters, return true if sentence is a pangram, or false otherwise.
 
-*OUTPUT:-
+*Output:-
 ![](Images/Capture.PNG)
